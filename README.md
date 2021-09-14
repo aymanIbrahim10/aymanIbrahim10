@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aymanIbrahim10
-- 👀 I’m interested to learn about anything is new 
-At programming language 
+- 👀 I’m programing on web developer 
 - 🌱 I’m currently learning html css js bootstrap jquery 
 Json ajax vue.js php mysql laravel 
 - 💞️ I’m looking to collaborate on ...
